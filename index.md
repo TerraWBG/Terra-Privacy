@@ -40,14 +40,19 @@ You can disable notifications at any time in the app or in iOS Settings.
 
 If Terra offers paid features, subscriptions, or in-app purchases, those transactions are handled by Apple through the App Store. Terra does not collect or store your payment card information.
 
-## Contacting Support
+## Terms of Use (EULA)
 
-If you contact Terra support by email, the information you choose to include in your message will be used only to respond to your question, feedback, or support request.
+Terra is distributed through the Apple App Store and uses Apple’s standard End User License Agreement (EULA). By downloading or using Terra, users agree to Apple’s Standard Terms of Use.
 
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ## Changes to This Policy
 
 This privacy policy may be updated if Terra’s features or privacy practices change. Any updates will be posted on this page with a revised effective date.
+
+## Contacting Support
+
+If you contact Terra support by email, the information you choose to include in your message will be used only to respond to your question, feedback, or support request.
 
 ## Contact
 
